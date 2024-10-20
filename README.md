@@ -17,4 +17,5 @@
 ### Запуск
 ```
 ./build/fashion_mnist test.csv logreg_coef.txt
+0.849611
 ```
